@@ -17,9 +17,14 @@
 - Reading the second chapter of Java_v_Oblake
 - Learning Spring framework
 - Solved problems on Leetcode
+- Solved easy problems on HackerRank
+- Finished the lecture on cs224n [Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo)
 
-**Thoughts:** I forgot how to code:P
+
+**Thoughts:** I forgot how to code:P Forgot that I can google error messages
 
 **Link to code:** [First steps in Spring](https://github.com/AzimovS/projectwithSpring)
 
-**Link to problem:** [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+**Link to problem:** 
+[House Robber II](https://leetcode.com/problems/house-robber-ii/), [Decode Ways](https://leetcode.com/problems/decode-ways/),
+[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/), [Staircase](https://www.hackerrank.com/challenges/staircase/problem), [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
