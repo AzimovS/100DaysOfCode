@@ -28,3 +28,12 @@
 **Link to problem:** 
 [House Robber II](https://leetcode.com/problems/house-robber-ii/), [Decode Ways](https://leetcode.com/problems/decode-ways/),
 [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/), [Staircase](https://www.hackerrank.com/challenges/staircase/problem), [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+
+### Day 2: March 17, 2020
+
+**Today's Progress:**
+- Started assignment1 of [cs224](https://github.com/AzimovS/Artificialintelligence/blob/master/cs224n/a1/exploring_word_vectors.ipynb) 
+- Read the [article](https://medium.com/data-science-group-iitr/word-embedding-2d05d270b285)
+
+**Thoughts:** I should the articles which are in a reference list of above's article
+**Link to code:** [cs224-a1](https://github.com/AzimovS/Artificialintelligence/blob/master/cs224n/a1/exploring_word_vectors.ipynb)
