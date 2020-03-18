@@ -41,5 +41,6 @@
 ### Day 3: March 18, 2020
 
 **Today's Progress:**
-- Solved problems on Leetcode
+- Solved problem on Leetcode
 - Solved problems on HackerRank
+**Link to problem:** [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/), [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem), [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
