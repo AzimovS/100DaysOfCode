@@ -37,3 +37,9 @@
 
 **Thoughts:** I should the articles which are in a reference list of above's article
 **Link to code:** [cs224-a1](https://github.com/AzimovS/Artificialintelligence/blob/master/cs224n/a1/exploring_word_vectors.ipynb)
+
+### Day 3: March 18, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+- Solved problems on HackerRank
