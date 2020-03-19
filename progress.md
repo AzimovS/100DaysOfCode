@@ -44,3 +44,15 @@
 - Solved problem on Leetcode
 - Solved problems on HackerRank
 **Link to problem:** [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/), [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem), [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
+
+### Day 4: March 19, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+- Solved problems on HackerRank
+- Read the second chapter of Java_v_oblake
+- Created a RESTful web service
+
+**Link to code:** [projectwithSpring](https://github.com/AzimovS/projectwithSpring)
+
+**Link to problem:** [3 Sum](https://leetcode.com/problems/3sum/), [Word Break](https://leetcode.com/problems/word-break/), [Grading Students](https://www.hackerrank.com/challenges/grading/problem), [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
