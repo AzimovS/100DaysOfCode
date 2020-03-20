@@ -43,6 +43,7 @@
 **Today's Progress:**
 - Solved problem on Leetcode
 - Solved problems on HackerRank
+
 **Link to problem:** [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/), [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem), [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
 
 ### Day 4: March 19, 2020
@@ -56,3 +57,13 @@
 **Link to code:** [projectwithSpring](https://github.com/AzimovS/projectwithSpring)
 
 **Link to problem:** [3 Sum](https://leetcode.com/problems/3sum/), [Word Break](https://leetcode.com/problems/word-break/), [Grading Students](https://www.hackerrank.com/challenges/grading/problem), [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+
+### Day 5: March 20, 2020
+
+**Today's Progress:**
+- Completed a1 css224n
+- Solved problems on HackerRank
+- Solved problems on Leetcode
+**Link to code:** [a1 cs224n](https://github.com/AzimovS/Artificialintelligence/tree/master/cs224n/a1)
+**Link to problem:** [Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/), [Meeting Rooms II](https://www.lintcode.com/problem/meeting-rooms-ii/), [Number of Islands](https://leetcode.com/problems/number-of-islands/), [The longest common subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem), [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)
+
