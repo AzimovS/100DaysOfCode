@@ -36,6 +36,7 @@
 - Read the [article](https://medium.com/data-science-group-iitr/word-embedding-2d05d270b285)
 
 **Thoughts:** I should the articles which are in a reference list of above's article
+
 **Link to code:** [cs224-a1](https://github.com/AzimovS/Artificialintelligence/blob/master/cs224n/a1/exploring_word_vectors.ipynb)
 
 ### Day 3: March 18, 2020
@@ -64,6 +65,16 @@
 - Completed a1 css224n
 - Solved problems on HackerRank
 - Solved problems on Leetcode
+
 **Link to code:** [a1 cs224n](https://github.com/AzimovS/Artificialintelligence/tree/master/cs224n/a1)
+
 **Link to problem:** [Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/), [Meeting Rooms II](https://www.lintcode.com/problem/meeting-rooms-ii/), [Number of Islands](https://leetcode.com/problems/number-of-islands/), [The longest common subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem), [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)
+
+### Day 6: March 21, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+- add an [issue](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/61) on Leetcode-Feedback
+
+**Link to problem:** [Clone graph](https://leetcode.com/problems/clone-graph/), [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/), [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
