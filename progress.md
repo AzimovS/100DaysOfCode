@@ -78,3 +78,11 @@
 
 **Link to problem:** [Clone graph](https://leetcode.com/problems/clone-graph/), [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/), [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
+### Day 7: March 22, 2020
+
+**Today's Progress:**
+- Participatedon Google KickStart (Solved one problem)
+- Developed a simple REST client
+
+**Link to code:** [client](https://github.com/AzimovS/projectwithSpring)
+
