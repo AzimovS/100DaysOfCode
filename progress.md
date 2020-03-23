@@ -83,6 +83,16 @@
 **Today's Progress:**
 - Participatedon Google KickStart (Solved one problem)
 - Developed a simple REST client
+- Solved problems on Leetcode
 
 **Link to code:** [client](https://github.com/AzimovS/projectwithSpring)
 
+**Link to problem:** [Valid Anagram](https://leetcode.com/problems/valid-anagram/), [Group Anagrams](https://leetcode.com/problems/group-anagrams/), [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/), [Valid palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+### Day 8: March 23, 2020
+
+**Today's Progress:**
+- Solved problems on Greedy on HackerRank
+- Solved problems on Leetcode
+
+**Link to problem:** [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem), [Markc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem), [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem), [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem), [Longest Substring Without Repeating Character](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
