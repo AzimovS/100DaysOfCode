@@ -96,3 +96,12 @@
 - Solved problems on Leetcode
 
 **Link to problem:** [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem), [Markc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem), [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem), [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem), [Longest Substring Without Repeating Character](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+### Day 9: March 24, 2020
+
+**Today's Progress:**
+- Solved problems on Greedy on HackerRank
+- Read articles on Word2Vec - The Skip-Gram Model [Part 1](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/), [Part 2](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
+- Watched Web dev [Learning Path - 1](https://www.youtube.com/watch?v=W_E6iSTBqNs&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un&index=2)
+
+**Link To problem:** [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem), [Beautiful pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)
