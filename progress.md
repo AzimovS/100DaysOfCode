@@ -104,4 +104,13 @@
 - Read articles on Word2Vec - The Skip-Gram Model [Part 1](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/), [Part 2](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 - Watched Web dev [Learning Path - 1](https://www.youtube.com/watch?v=W_E6iSTBqNs&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un&index=2)
 
-**Link To problem:** [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem), [Beautiful pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)
+**Link to problem:** [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem), [Beautiful pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)
+
+### Day 10: March 25, 2020
+
+**Today's Progress:**
+- Solved problems on Greedy on HackerRank
+- Read papers: [Efficien estimation of Word Representation in Vector Space](https://arxiv.org/pdf/1301.3781.pdf), [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+
+**Link to problem:** [Sherlock and The Best](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
+
