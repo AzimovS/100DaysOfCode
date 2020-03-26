@@ -114,3 +114,10 @@
 
 **Link to problem:** [Sherlock and The Best](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
 
+### Day 11: March 26, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+
+**Link to problem:** [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/), [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/), [Longest Repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+
