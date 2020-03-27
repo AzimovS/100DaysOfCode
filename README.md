@@ -121,3 +121,15 @@
 
 **Link to problem:** [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/), [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/), [Longest Repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
+### Day 12: March 27, 2020
+
+**Today's Progres:**
+- Solved problems on GeeksforGeeks on [graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+- Solved problems on HackerRank on Greedy
+- Watched 2nd [Lecture](https://www.youtube.com/watch?v=kEMJRjEdNzM) of cs224
+
+**Thoughts:** Started to learn graphs on GeekforGeeks. I believe that my solution to the first problem is correct and I do not know why there is an error. Honestly, I really like this topic. Additionally, Solved problems on Greedy on HackerRank and learn new thing as multimap in c++. I am only on the second week of cs224n, it is really slow progress. I should spend more time on research to be in the same level as other RAs.
+
+**Link to code:** [Graphs](https://github.com/AzimovS/Problem-Solving/tree/master/GeeksforGeeks/Graphs)
+
+**Link to problem:** [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem), [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem), [Jim and the orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)
