@@ -133,3 +133,14 @@
 **Link to code:** [Graphs](https://github.com/AzimovS/Problem-Solving/tree/master/GeeksforGeeks/Graphs)
 
 **Link to problem:** [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem), [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem), [Jim and the orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)
+
+### Day 13: March 28, 2020
+
+***Today's Progres:**
+- Completed a telegram bot for a friend 
+- Solved Hard question on Leetcode
+
+**Thoughts:** It's been more than a half-year since I worked with telegram bots. It was easier to code than previous time.
+
+**Link to project:** @medicalkz_bot in Telegram
+**Link to problem:** [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
