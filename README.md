@@ -123,7 +123,7 @@
 
 ### Day 12: March 27, 2020
 
-**Today's Progres:**
+**Today's Progress:**
 - Solved problems on GeeksforGeeks on [graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 - Solved problems on HackerRank on Greedy
 - Watched 2nd [Lecture](https://www.youtube.com/watch?v=kEMJRjEdNzM) of cs224
@@ -136,11 +136,22 @@
 
 ### Day 13: March 28, 2020
 
-***Today's Progres:**
+**Today's Progress:**
 - Completed a telegram bot for a friend 
 - Solved Hard question on Leetcode
 
 **Thoughts:** It's been more than a half-year since I worked with telegram bots. It was easier to code than previous time.
 
 **Link to project:** @medicalkz_bot in Telegram
+
 **Link to problem:** [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
+### Day 14: March 29, 2020
+
+**Today's Progress:**
+- Participated on Weekly Leetcode Contest 182 (Solved 3 problems)
+- Started NLP Course by [Huawei](https://www.youtube.com/watch?v=qUmmrypcqIU)
+
+**Thoughts:** My global ranking before this contest is 56674/84229. Can I be in the top 20k by the end of this challenge? Let's see.
+
+**Link to problem:** [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/), [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/), [Design Underground System](https://leetcode.com/problems/design-underground-system/)	
