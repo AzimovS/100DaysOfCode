@@ -155,3 +155,14 @@
 **Thoughts:** My global ranking before this contest is 56674/84229. Can I be in the top 20k by the end of this challenge? Let's see.
 
 **Link to problem:** [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/), [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/), [Design Underground System](https://leetcode.com/problems/design-underground-system/)	
+
+### Day 15: March 30, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+- Finished the [first](https://www.youtube.com/watch?v=qUmmrypcqIU) lecture NLP Course by Huawei
+- Started the [second](https://www.youtube.com/watch?v=lec_xCh4pGE) lecture NLP Course by Huawei
+
+**Thoughts:** Started the private course by Huawei. Top 20 students will be rewarded by virtual machines for the final project.I did not know about this course and missed two week, but still will try to be in top 20.
+
+**Link to problem:** [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/), [Same Tree](https://leetcode.com/problems/same-tree/), [Invert/Flip Binary Tree](https://leetcode.com/problems/same-tree/), [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/), [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/), [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/), [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
