@@ -163,6 +163,17 @@
 - Finished the [first](https://www.youtube.com/watch?v=qUmmrypcqIU) lecture NLP Course by Huawei
 - Started the [second](https://www.youtube.com/watch?v=lec_xCh4pGE) lecture NLP Course by Huawei
 
-**Thoughts:** Started the private course by Huawei. Top 20 students will be rewarded by virtual machines for the final project.I did not know about this course and missed two week, but still will try to be in top 20.
+**Thoughts:** Started the private course by Huawei. Top 20 students will be rewarded by virtual machines for the final project. I did not know about this course and missed two weeks, but still will try to be in the top 20.
 
 **Link to problem:** [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/), [Same Tree](https://leetcode.com/problems/same-tree/), [Invert/Flip Binary Tree](https://leetcode.com/problems/same-tree/), [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/), [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/), [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/), [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+
+### Day 15: March 31, 2020
+
+**Today's Progress:**
+- Finished the [second](https://www.youtube.com/watch?v=lec_xCh4pGE) lecture NLP Course by Huawei
+- Started the [third](https://www.youtube.com/watch?v=xUbkZvAxOxw) lecture NLP Course by Huawei
+- Solved problems on Leetcode
+
+**Thoughts:** I need to do some projects with NLP, otherwise, it seems boring to me. Learnt a new data structure (Trie).
+
+**Link to problem:** [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/), [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/), [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
