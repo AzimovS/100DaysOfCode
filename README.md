@@ -177,3 +177,13 @@
 **Thoughts:** I need to do some projects with NLP, otherwise, it seems boring to me. Learnt a new data structure (Trie).
 
 **Link to problem:** [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/), [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/), [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+### Day 16: April 1, 2020
+
+**Today's Progress:**
+- Finished the [third](https://www.youtube.com/watch?v=xUbkZvAxOxw&t=5876s) lecture NLP Course by Huawei
+- Solved problems on Leetcode
+
+**Thoughts:** The First Day of 30-Day LeetCoding challenge.
+
+**Link to problem:** [Single Number](https://leetcode.com/problems/single-number/), [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
