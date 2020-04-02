@@ -187,3 +187,14 @@
 **Thoughts:** The First Day of 30-Day LeetCoding challenge.
 
 **Link to problem:** [Single Number](https://leetcode.com/problems/single-number/), [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+
+### Day 17: April 2, 2020
+
+**Today's Progress:**
+- Minor fixes in telegram bot
+- Solved problems on Leetcode
+- Participated on lecture by NLP group
+
+**Link to work**: @medicalkz_bot in Telegram
+
+**Link to problem:** [Happy Number](https://leetcode.com/problems/happy-number/), [Contrusct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/)
