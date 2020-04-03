@@ -198,3 +198,14 @@
 **Link to work**: @medicalkz_bot in Telegram
 
 **Link to problem:** [Happy Number](https://leetcode.com/problems/happy-number/), [Contrusct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/)
+
+### Day 18: April 3, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+- Completed quizzes on Stepik
+- Started to implement word2vec
+
+**Thoughts:** Word2vec is an amazing technique to produce word embeddings. One of the problems on Stepik it so implement word2vec. It is difficult to do it as need to understand everything.
+
+**Link to problem:** [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/), [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
