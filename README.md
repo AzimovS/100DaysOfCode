@@ -209,3 +209,13 @@
 **Thoughts:** Word2vec is an amazing technique to produce word embeddings. One of the problems on Stepik it so implement word2vec. It is difficult to do it as need to understand everything.
 
 **Link to problem:** [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/), [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+### Day 19: April 4, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+- Solved 1 problem on Google Code Jam
+- Still implementing word2vec (need some optimization to pass the test)
+- Participated on Biweekly Leetcode Contest 23 (Solved 3 problems)
+
+**Link to problem:** [Word Search II](https://leetcode.com/problems/word-search-ii/), [Move Zeroes](https://leetcode.com/problems/move-zeroes/), [Count Largest Group](https://leetcode.com/problems/count-largest-group/), [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/), [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
