@@ -219,3 +219,14 @@
 - Participated on Biweekly Leetcode Contest 23 (Solved 3 problems)
 
 **Link to problem:** [Word Search II](https://leetcode.com/problems/word-search-ii/), [Move Zeroes](https://leetcode.com/problems/move-zeroes/), [Count Largest Group](https://leetcode.com/problems/count-largest-group/), [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/), [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
+
+### Day 20: April 5, 2020
+
+**Today's Progress:**
+- Participated on Weekly Leetcode Contest 183 (Solved 2 problems)
+- Fifth day of 30-Day Leetcoding Challenge
+- Started the [CNN](https://www.youtube.com/watch?v=jq7sdaY9mLk&t) lecture NLP Course by Huawei 
+
+**Thoughts:** Hmmm, I should perform better on contests. Submitted word2vec with the correct solution.
+
+**Link to problem:** [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/), [Number of Steps to ....](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/), [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
