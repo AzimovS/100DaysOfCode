@@ -232,10 +232,19 @@
 **Link to problem:** [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/), [Number of Steps to ....](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/), [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 
-### Day 21: Aptil 6, 2020
+### Day 21: April 6, 2020
 
 **Today's Progress:**
 - Sixth day of 30-Day Leetcoding Challenge
 - Finished the [CNN](https://www.youtube.com/watch?v=jq7sdaY9mLk&t) lecture NLP Course by Huawei
 
+### Day 22: April 7, 2020
 
+**Today's Progres:**
+- Seventh days of 30-Day Leetcoding Challenge
+- Solved problems on Leetcode
+- Started [HMMs] Lecture on NLP Course by Huawi
+
+**Thoughts:** I think it is the first time when I met the Hidden Markov Model, so I need some extra material to cover this topic.
+
+***Link to problem:** [Counting elements](https://leetcode.com/problems/counting-elements/), [Hamming distance](https://leetcode.com/problems/hamming-distance/submissions/), [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
