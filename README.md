@@ -241,10 +241,21 @@
 ### Day 22: April 7, 2020
 
 **Today's Progres:**
-- Seventh days of 30-Day Leetcoding Challenge
+- Seventh day of 30-Day Leetcoding Challenge
 - Solved problems on Leetcode
-- Started [HMMs] Lecture on NLP Course by Huawi
+- Started [HMMs] Lecture on NLP Course by Huawei
 
 **Thoughts:** I think it is the first time when I met the Hidden Markov Model, so I need some extra material to cover this topic.
 
 ***Link to problem:** [Counting elements](https://leetcode.com/problems/counting-elements/), [Hamming distance](https://leetcode.com/problems/hamming-distance/submissions/), [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+
+### Day 23: April 8, 2020
+
+**Today's Progress:**
+- Eigth day of 30-Day Leetcoding Challenge
+- Solved problems on Leetcode
+- Finished [HMMs] Lecture on NLP Course by Huawei
+
+**Thought:** I should review the material about HMMs.
+
+**Link to problem:**[Add two numbers](https://leetcode.com/problems/add-two-numbers/), [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/)
