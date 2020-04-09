@@ -259,3 +259,14 @@
 **Thought:** I should review the material about HMMs.
 
 **Link to problem:**[Add two numbers](https://leetcode.com/problems/add-two-numbers/), [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/)
+
+### Day 24: April 9, 2020
+
+**Today's Progress:**
+- Ninth day of 30-Day Leetcoding Challenge
+- Solved problems on Leetcode
+- Started [NLTK book](https://www.nltk.org/book/)
+
+**Thoughts:** Bit manipulation is a difficult topic for me. I should spend more time on it after the finals.
+
+**Link to problem:** [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/), [Counting bits](https://leetcode.com/problems/counting-bits/)
