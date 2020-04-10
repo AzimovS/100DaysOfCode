@@ -270,3 +270,12 @@
 **Thoughts:** Bit manipulation is a difficult topic for me. I should spend more time on it after the finals.
 
 **Link to problem:** [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/), [Counting bits](https://leetcode.com/problems/counting-bits/)
+
+### Day 25: April 10, 2020
+
+**Today's Progress:**
+- Tenth day of 30-Day Leetcoding Challenge
+- Searched projects for NLP [Intreresting article](https://towardsdatascience.com/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0)
+- Started videos about [BERT](https://www.youtube.com/watch?v=FKlPCK1uFrc&t=7s)
+
+ **Link to problem:**[Sum of two integers](https://leetcode.com/problems/sum-of-two-integers/)
