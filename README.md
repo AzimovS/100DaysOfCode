@@ -243,18 +243,18 @@
 **Today's Progres:**
 - Seventh day of 30-Day Leetcoding Challenge
 - Solved problems on Leetcode
-- Started [HMMs] Lecture on NLP Course by Huawei
+- Started [HMMs](https://www.youtube.com/watch?v=c53OwqRvIcg&list=PLHvlTBWld13NDsJpNQU095K81vw5bH7X3&index=5) Lecture on NLP Course by Huawei
 
 **Thoughts:** I think it is the first time when I met the Hidden Markov Model, so I need some extra material to cover this topic.
 
-***Link to problem:** [Counting elements](https://leetcode.com/problems/counting-elements/), [Hamming distance](https://leetcode.com/problems/hamming-distance/submissions/), [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+**Link to problem:** [Counting elements](https://leetcode.com/problems/counting-elements/), [Hamming distance](https://leetcode.com/problems/hamming-distance/submissions/), [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 
 ### Day 23: April 8, 2020
 
 **Today's Progress:**
 - Eigth day of 30-Day Leetcoding Challenge
 - Solved problems on Leetcode
-- Finished [HMMs] Lecture on NLP Course by Huawei
+- Finished [HMMs](https://www.youtube.com/watch?v=c53OwqRvIcg&list=PLHvlTBWld13NDsJpNQU095K81vw5bH7X3&index=5) Lecture on NLP Course by Huawei
 
 **Thought:** I should review the material about HMMs.
 
@@ -278,4 +278,15 @@
 - Searched projects for NLP [Intreresting article](https://towardsdatascience.com/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0)
 - Started videos about [BERT](https://www.youtube.com/watch?v=FKlPCK1uFrc&t=7s)
 
- **Link to problem:**[Sum of two integers](https://leetcode.com/problems/sum-of-two-integers/)
+**Link to problem:** [Sum of two integers](https://leetcode.com/problems/sum-of-two-integers/)
+
+### Day 26: April 11, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+- 11th day of 30-Day Leetcoding Challenge
+- Started [RNN](https://www.youtube.com/watch?v=6dMXJqijntY&list=PLHvlTBWld13NDsJpNQU095K81vw5bH7X3&index=6) lecture NLP course by Huawei
+
+**Thoughts:** AI would be course much easier after understanding the HMMs. That is a huge motivation. Thanks for the info.
+
+**Link to problem:** [Reverse bits](https://leetcode.com/problems/reverse-bits/), [Diameter of binary tree](https://leetcode.com/problems/diameter-of-binary-tree/)
