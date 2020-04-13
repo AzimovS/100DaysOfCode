@@ -296,5 +296,21 @@
 **Today's Progress:**
 - Participated on Weekly Leetcode Contest 184 (Solved 3 problems)
 - Solved problems on Topological Sorting
+- 12th day of 30-Day Leetcoding Challenge
+
+**Link to code:** [Graphs](https://github.com/AzimovS/Problem-Solving/tree/master/GeeksforGeeks/Graphs)
 
 **Link to problem:** [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/), [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/), [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/), [Number of Ways to Paint Nx3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)
+
+### Day 28: April 13, 2020
+
+**Today's Progress:**
+- Solved problems on graph on GeeksforGeeks
+- Solved problems on Leetcode
+- 13th day of 30-Day Leetcoding Challenge
+
+**Thoughts:** The current topic on algorithms is graphs, so it is beneficial to solve problems on the same topic. Spent a lot of time on the Alien dictionary problem and could not solve it.
+
+**Link to code:** [Graphs](https://github.com/AzimovS/Problem-Solving/tree/master/GeeksforGeeks/Graphs)
+
+**Link to problem:** [Word Search](https://leetcode.com/problems/word-search/), [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
