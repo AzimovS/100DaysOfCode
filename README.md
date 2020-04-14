@@ -314,3 +314,13 @@
 **Link to code:** [Graphs](https://github.com/AzimovS/Problem-Solving/tree/master/GeeksforGeeks/Graphs)
 
 **Link to problem:** [Word Search](https://leetcode.com/problems/word-search/), [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+
+### Day 29: April 14, 2020
+
+**Todays Progress:**
+- Solved problems on Leetcode
+- 14th day of 30-Day Leetcoding Challenge
+
+**Thoughts:** Solved the Alien Dictionary problem in two days. Oh, Lintcode have more test cases
+
+**Link to problem:** [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/), [Alien Dictionary](https://www.lintcode.com/problem/alien-dictionary/description), [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)
