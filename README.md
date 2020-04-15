@@ -317,10 +317,18 @@
 
 ### Day 29: April 14, 2020
 
-**Todays Progress:**
+**Today's Progress:**
 - Solved problems on Leetcode
 - 14th day of 30-Day Leetcoding Challenge
 
 **Thoughts:** Solved the Alien Dictionary problem in two days. Oh, Lintcode have more test cases
 
 **Link to problem:** [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/), [Alien Dictionary](https://www.lintcode.com/problem/alien-dictionary/description), [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)
+
+### Dy 30: April 15, 2020
+
+**Today's Progress:**
+- 15th day of 30-Day Leetcoding Challenge
+- Solved problem on Leetcode
+
+**Link to problem:** [Graph Valid Tree](https://www.lintcode.com/problem/graph-valid-tree/description)
