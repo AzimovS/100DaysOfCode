@@ -325,10 +325,18 @@
 
 **Link to problem:** [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/), [Alien Dictionary](https://www.lintcode.com/problem/alien-dictionary/description), [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)
 
-### Dy 30: April 15, 2020
+### Day 30: April 15, 2020
 
 **Today's Progress:**
 - 15th day of 30-Day Leetcoding Challenge
 - Solved problem on Leetcode
 
 **Link to problem:** [Graph Valid Tree](https://www.lintcode.com/problem/graph-valid-tree/description)
+
+### Day 31: April 16, 2020
+
+**Today's Progress:**
+- 16h day of 30-Day Leetcoding Challenge
+- Started to solve [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+
+**Link to problem:** [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
