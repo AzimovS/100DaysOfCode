@@ -343,8 +343,17 @@
 
 ### Day 32: April 17, 2020
 
-**Today's Progres:**
+**Today's Progress:**
 - 17th day of 30-Day Leetcoding Challenge
 - Solved problems on Leetcode
 
 **Link to problem:** [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+
+### Day 33: April 18, 2020
+
+**Today's Progress:**
+- 18th day of 30-Day Leetcoding Challenge
+- Solved problems on Leetcode
+- Participated on Biweekly Leetcode Contest 24 (Solved 1 problem)
+
+**Link to problem:** [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/), [Rotate Image](https://leetcode.com/problems/rotate-image/), [Minimum Value to get positive step by step](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
