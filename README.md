@@ -357,3 +357,12 @@
 - Participated on Biweekly Leetcode Contest 24 (Solved 1 problem)
 
 **Link to problem:** [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/), [Rotate Image](https://leetcode.com/problems/rotate-image/), [Minimum Value to get positive step by step](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
+
+### Day 34: April 19, 2020
+
+**Today's Progress:**
+- Participated on Weekly Leetcode Contest 185 (Solved 2 problem)
+- 19th day of 30-Day Leetcoding Challenge
+- Participated on IITU Open with @nursaadat
+
+**Link to problem:** [Reformat the String](https://leetcode.com/problems/reformat-the-string/), [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/), [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
