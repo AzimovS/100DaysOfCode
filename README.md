@@ -366,3 +366,11 @@
 - Participated on IITU Open with @nursaadat
 
 **Link to problem:** [Reformat the String](https://leetcode.com/problems/reformat-the-string/), [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/), [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
+
+### Day 35: April 20, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+- 20th day of 30-Day Leetcoding Challenge
+
+**Link to problem:** [Find the Minimum Number of Fib ...](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/), [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
