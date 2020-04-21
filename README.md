@@ -374,3 +374,11 @@
 - 20th day of 30-Day Leetcoding Challenge
 
 **Link to problem:** [Find the Minimum Number of Fib ...](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/), [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
+### Day 36: April 21, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcde
+- 21st day of 30-Day Leetcoding Challenge
+
+**Link to problem:** [Leftmost Column with at least a one](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
