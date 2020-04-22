@@ -381,4 +381,12 @@
 - Solved problems on Leetcde
 - 21st day of 30-Day Leetcoding Challenge
 
-**Link to problem:** [Leftmost Column with at least a one](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+**Link to problem:** [Leftmost Column with at least a one](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/), [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+### Day 37: April 22, 2020
+
+**Today's Progress:**
+- Started to solve Find Median from Data Stream
+- 22nd day of 30-Day Leetcoding Challenge
+
+**Link to problem:** [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/), [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
