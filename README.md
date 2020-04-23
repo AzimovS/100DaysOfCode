@@ -378,7 +378,7 @@
 ### Day 36: April 21, 2020
 
 **Today's Progress:**
-- Solved problems on Leetcde
+- Solved problems on Leetcode
 - 21st day of 30-Day Leetcoding Challenge
 
 **Link to problem:** [Leftmost Column with at least a one](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/), [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
@@ -390,3 +390,11 @@
 - 22nd day of 30-Day Leetcoding Challenge
 
 **Link to problem:** [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/), [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+### Day 38: April 23, 2020
+
+**Today's Progress:**
+- Solved problem on Leetcode
+- 23rd day of 30-Day Leetcoding Challenge
+
+**Link to problem:** [Longest Happy String](https://leetcode.com/problems/longest-happy-string/), [Bitwise AND of Numbers Range]
