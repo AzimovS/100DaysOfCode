@@ -398,3 +398,11 @@
 - 23rd day of 30-Day Leetcoding Challenge
 
 **Link to problem:** [Longest Happy String](https://leetcode.com/problems/longest-happy-string/), [Bitwise AND of Numbers Range]
+
+### Day 39: April 24, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+- 24th day of 30-Day Leetcoding Challenge
+
+**Link to problem:** [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/), [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/), [LRU Cache](https://leetcode.com/problems/lru-cache/)
