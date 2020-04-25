@@ -406,3 +406,12 @@
 - 24th day of 30-Day Leetcoding Challenge
 
 **Link to problem:** [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/), [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/), [LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+### Day 40: April 25, 2020
+
+**Today's Progress:**
+- 25th day of 30-Day Leetcoding Challenge
+- Solved Problems on Leetcode
+
+**Link to problem:** [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/), [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/),
+
