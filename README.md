@@ -361,7 +361,7 @@
 ### Day 34: April 19, 2020
 
 **Today's Progress:**
-- Participated on Weekly Leetcode Contest 185 (Solved 2 problem)
+- Participated on Weekly Leetcode Contest 185 (Solved 2 problems)
 - 19th day of 30-Day Leetcoding Challenge
 - Participated on IITU Open with @nursaadat
 
@@ -413,5 +413,12 @@
 - 25th day of 30-Day Leetcoding Challenge
 - Solved Problems on Leetcode
 
-**Link to problem:** [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/), [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/),
+**Link to problem:** [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/), [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
+### Day 41: April 26, 2020
+
+**Today's Progress:**
+- Participated on Weekly Leetcode Contest 185 (Solved 3 problems)
+- 26th day of 30-Day Leetcoding Challenge
+
+**Link to problem:** [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/), [Maximum Points You can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
