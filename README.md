@@ -422,3 +422,11 @@
 - 26th day of 30-Day Leetcoding Challenge
 
 **Link to problem:** [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/), [Maximum Points You can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+
+### Day 42: April 27, 2020
+
+**Today's Progress:**
+- 27th day of 30-Day Leetcoding Challenge
+- Solved problems on Leetcode
+
+**Link to problem:** [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/), [Kth Smallest ELement in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/), [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
