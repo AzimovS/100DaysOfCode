@@ -430,3 +430,11 @@
 - Solved problems on Leetcode
 
 **Link to problem:** [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/), [Kth Smallest ELement in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/), [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+### Day 43: April 28, 2020
+
+**Today's Progress:**
+- 28th day of 30-Day Leetcoding Challenge
+- Solved problems on Leetcode
+
+**Link to problem:** [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/), [First Unique Number](https://leetcode.com/problems/first-unique-number/)
