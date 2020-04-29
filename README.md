@@ -438,3 +438,12 @@
 - Solved problems on Leetcode
 
 **Link to problem:** [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/), [First Unique Number](https://leetcode.com/problems/first-unique-number/)
+
+### Day 44: April 29, 2020
+
+**Today's Progress:**
+- 29th day of 30-Day Leetcoding Challenge
+- Solved problemson Leetcode
+- Started the card (Find with arrays)
+
+**Link to problem:** [Generate a String with ...](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/), [How Many Numbers are ...](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
