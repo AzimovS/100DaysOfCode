@@ -447,3 +447,12 @@
 - Started the card (Find with arrays)
 
 **Link to problem:** [Generate a String with ...](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/), [How Many Numbers are ...](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+
+### Day 45: April 30, 2020
+
+**Today's Progress:**
+- 30th day of 30-Day Leetcoding Challenge
+
+**Thoughts:** Finally, finished 30-Day Leetcoding Challenge.
+
+**Link to problem:** [Check if a String is a valid ...](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/)
