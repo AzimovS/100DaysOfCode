@@ -465,4 +465,13 @@
 
 **Link to problem:**[First bad version](https://leetcode.com/problems/first-bad-version/), [Max consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
+### Day 47: May 2, 2020
 
+**Today's Progress:**
+- 2nd day of 31-Day Leetcoding Challenge
+- Started C++ (White Belt Yandex specialization)
+- Participated on Biweekly Contest 25 (Solved 3 problems)
+
+**Thoughts:** Last final is left.
+
+**Link to problem:** [Kids with the greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/), [Max difference you can ger from changin an integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/), [Check if a String can break another string](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)
