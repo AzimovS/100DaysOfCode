@@ -475,3 +475,11 @@
 **Thoughts:** Last final is left.
 
 **Link to problem:** [Kids with the greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/), [Max difference you can ger from changin an integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/), [Check if a String can break another string](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)
+
+### Day 48: May 3, 2020
+
+**Today's Progress:**
+- Participated on Weekly contest 187 (Solved 2 problems)
+- 3rd Day of 31-Day Leetcoding Challenge
+
+**Link to problem:** [Destination city](https://leetcode.com/problems/destination-city/), [Check if All 1's Are ...](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/), [Ransom Note](https://leetcode.com/problems/ransom-note/)
