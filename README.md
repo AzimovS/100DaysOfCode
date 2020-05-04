@@ -483,3 +483,11 @@
 - 3rd Day of 31-Day Leetcoding Challenge
 
 **Link to problem:** [Destination city](https://leetcode.com/problems/destination-city/), [Check if All 1's Are ...](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/), [Ransom Note](https://leetcode.com/problems/ransom-note/)
+
+### Day 49: May 4, 2020
+
+**Today's Progress:**
+- Solved problems on Leetcode
+- 4th day of 31-Day Leetcoding Challegen
+
+**Link to problem:** [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/), [Number Complement](https://leetcode.com/problems/number-complement/), [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
