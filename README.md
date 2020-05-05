@@ -488,6 +488,17 @@
 
 **Today's Progress:**
 - Solved problems on Leetcode
-- 4th day of 31-Day Leetcoding Challegen
+- 4th day of 31-Day Leetcoding Challenge
 
 **Link to problem:** [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/), [Number Complement](https://leetcode.com/problems/number-complement/), [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+
+
+### Day 50: May 5, 2020
+
+**Today's Progress:**
+- 5th day of 31-Day Leetcoding Challenge
+- Studying C++ course
+- Started to solve math problems on Hackerrank
+
+
+
