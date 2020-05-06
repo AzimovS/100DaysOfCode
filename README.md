@@ -500,5 +500,12 @@
 - Studying C++ course
 - Started to solve math problems on Hackerrank
 
+### Day 51: May 6, 2020
 
+**Today's Progress:**
+- 6th day of 31-Day Leetocoding Challenge
+- Solved problems on Leetcode
+- Solved easy math problems on HackerRank
 
+**Link to problem:** [Check if N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/), [Minimum Number of steps to make two strings anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/), [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem), [Handshake](https://www.hackerrank.com/challenges/handshake/problem), 
+[Lowest Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)
