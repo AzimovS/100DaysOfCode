@@ -506,6 +506,17 @@
 - 6th day of 31-Day Leetocoding Challenge
 - Solved problems on Leetcode
 - Solved easy math problems on HackerRank
+- Finished Week 1 (White Belt C++)
 
 **Link to problem:** [Check if N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/), [Minimum Number of steps to make two strings anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/), [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem), [Handshake](https://www.hackerrank.com/challenges/handshake/problem), 
 [Lowest Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)
+
+### Day 52: May 7, 2020
+
+**Today's Progress:**
+- Started to develop chrome extension
+- 7th day of 31-Day Leetcoding Challenge
+- Studying Week 2 (White Belt C++)
+- Solving Math problems on HackerRank
+
+**Link to problem:** [Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem)
