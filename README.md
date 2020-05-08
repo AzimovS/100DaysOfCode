@@ -520,3 +520,11 @@
 - Solving Math problems on HackerRank
 
 **Link to problem:** [Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem)
+
+### Day 53: May 8, 2020
+
+**Today's Progress:**
+- Started to read HMMs in Lawrence Book
+- Started [minicourse](https://www.kaggle.com/learn/intro-to-machine-learning) on Kaggle
+- Studying C++ on Coursera
+
