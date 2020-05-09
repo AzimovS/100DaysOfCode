@@ -525,6 +525,14 @@
 
 **Today's Progress:**
 - Started to read HMMs in Lawrence Book
+- 8th day of 31-Day Leetcoding Challenge
 - Started [minicourse](https://www.kaggle.com/learn/intro-to-machine-learning) on Kaggle
 - Studying C++ on Coursera
 
+
+### Day 54: May 9, 2020
+
+**Today's Progress:**
+- 9th day of 31-Day Leetcoding Challenge
+- Finished [minicourse](https://www.kaggle.com/learn/intro-to-machine-learning) on Kaggle
+- Studying C++ on Coursera
