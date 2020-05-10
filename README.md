@@ -536,3 +536,13 @@
 - 9th day of 31-Day Leetcoding Challenge
 - Finished [minicourse](https://www.kaggle.com/learn/intro-to-machine-learning) on Kaggle
 - Studying C++ on Coursera
+
+### Day 55: May 10, 2020
+
+**Today's Progress:**
+- Participated on Weekly contest 188 (Solved 2 questions)
+- 10th day of 31-Day Leetcoding Challenge
+- Studying C++ on Coursera
+
+**Link to problem:** [Build an Array with Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/), [Count Triples that Can Form ...](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/), [Minimum Time to collect all apples in a tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
+
