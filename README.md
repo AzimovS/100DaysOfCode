@@ -546,3 +546,17 @@
 
 **Link to problem:** [Build an Array with Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/), [Count Triples that Can Form ...](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/), [Minimum Time to collect all apples in a tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
 
+### Day 56: May 11, 2020
+
+**Today's Progress:**
+- Finished the article about [BERT](http://jalammar.github.io/illustrated-bert/)
+- Finished Week 2 (White Belt C++)
+- Started Week 3 (White Belt C++)
+- 11th day of 31-Day Leetcoding Challenge
+- Started (again) tutorials by [ChrisMcCormickAI](https://www.youtube.com/watch?v=FKlPCK1uFrc&t=7s)
+- Started the article [Visualizing a Neural machine translation model](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+
+**Link to problem:** [Flood Fill](https://leetcode.com/problems/flood-fill/), [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+
+
+
