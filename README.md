@@ -558,5 +558,13 @@
 
 **Link to problem:** [Flood Fill](https://leetcode.com/problems/flood-fill/), [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
+### Day 57: May 12, 2020
 
+**Today's Progress:**
+- Finished the article [Visualizing a Neural machine translation model](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- Finished the article [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- Studying C++ on Coursera
+- 12th day of 31-Day Leetcoding Challenge
+
+**Link to problem:** [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/), [Design Hashmap](https://leetcode.com/problems/design-hashmap/), [Design Hashset](https://leetcode.com/problems/design-hashset/)
 
