@@ -568,3 +568,10 @@
 
 **Link to problem:** [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/), [Design Hashmap](https://leetcode.com/problems/design-hashmap/), [Design Hashset](https://leetcode.com/problems/design-hashset/)
 
+### Day 58: May 13, 2020
+
+**Today's Progress:**
+- Studying C++ on Coursera
+- 13th day of 31-Day Leetcoding Challenge
+
+**Link to problem:** [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
