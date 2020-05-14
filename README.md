@@ -575,3 +575,10 @@
 - 13th day of 31-Day Leetcoding Challenge
 
 **Link to problem:** [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+
+### Day 59: May 14, 2020
+
+**Today's Progress:**
+- Rewrote the [code](https://github.com/Kyubyong/nlp_made_easy/blob/master/Pos-tagging%20with%20Bert%20Fine-tuning.ipynb)
+- 14th day of 31-Day Leetcoding Challenge
+
