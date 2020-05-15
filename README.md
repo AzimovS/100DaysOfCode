@@ -582,3 +582,10 @@
 - Rewrote the [code](https://github.com/Kyubyong/nlp_made_easy/blob/master/Pos-tagging%20with%20Bert%20Fine-tuning.ipynb)
 - 14th day of 31-Day Leetcoding Challenge
 
+### Day 60: May 15, 2020
+
+**Today's Progress:**
+- Studying PoS tagging
+- Finished the Ep. 2 [BERT Research series](https://www.youtube.com/watch?v=zJW57aCBCTk)
+- 15th day of 31-Day Leetcoding challenge [Maximum Sub Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+- Finished Week 3 (White Belt C++)
