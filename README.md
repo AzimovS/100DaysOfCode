@@ -589,3 +589,13 @@
 - Finished the Ep. 2 [BERT Research series](https://www.youtube.com/watch?v=zJW57aCBCTk)
 - 15th day of 31-Day Leetcoding challenge [Maximum Sub Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - Finished Week 3 (White Belt C++)
+
+### Day 61: May 16, 2020
+
+**Today's Progress:**
+- Studying C++
+- 16th day of 31-Day Leetcoding challenge
+- Participated on CF contest #643 (Solved 1 problem)
+- Particiapted on Biweekly Contest 26 (Solved 4 problems)
+
+**Link to problems:** [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/), [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/), [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/), [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/), [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/), [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/), [Последовательность с цифрами](https://codeforces.com/contest/1355/problem/A), [Юные Следопыты](https://codeforces.com/contest/1355/problem/B)
