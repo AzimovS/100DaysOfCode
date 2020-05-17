@@ -594,8 +594,17 @@
 
 **Today's Progress:**
 - Studying C++
-- 16th day of 31-Day Leetcoding challenge
+- 16th day of 31-Day Leetcoding Challenge
 - Participated on CF contest #643 (Solved 1 problem)
 - Particiapted on Biweekly Contest 26 (Solved 4 problems)
 
 **Link to problems:** [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/), [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/), [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/), [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/), [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/), [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/), [Последовательность с цифрами](https://codeforces.com/contest/1355/problem/A), [Юные Следопыты](https://codeforces.com/contest/1355/problem/B)
+
+### Day 62: May 17, 2020
+
+**Today's Progress:**
+- Participated on Weekly Contest 189 (Solved 3 problems)
+- 17th day of 31-Day Leetcoding Challenge
+- Participated on CF Educational Contests
+
+**Link to problems:** [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/), [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/), [People Whose List of Favorite Companies ...](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/), [Find All Anagrans in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
