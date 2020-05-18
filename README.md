@@ -605,6 +605,16 @@
 **Today's Progress:**
 - Participated on Weekly Contest 189 (Solved 3 problems)
 - 17th day of 31-Day Leetcoding Challenge
-- Participated on CF Educational Contests
+- Participated on CF Educational Contests (Solved 3 problems)
 
-**Link to problems:** [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/), [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/), [People Whose List of Favorite Companies ...](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/), [Find All Anagrans in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+**Link to problems:** [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/), [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/), [People Whose List of Favorite Companies ...](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/), [Find All Anagrans in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/), [Будильник](https://codeforces.com/contest/1354/problem/A), [Троичная строка](https://codeforces.com/contest/1354/problem/B), [С1. Просто вписываем многоугольник](https://codeforces.com/contest/1354/problem/C1)
+
+### Day 63: May 18, 2020
+
+**Today's Progress:**
+- Found some code and article which reproduced BERT
+- 18th day of 31-Day Leetcoding Challenge
+- Finished the Ep. 3 [BERT Research series](https://www.youtube.com/watch?v=Hnvb9b7a_Ps)
+
+**Link to problems:** [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
