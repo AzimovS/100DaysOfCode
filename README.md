@@ -618,3 +618,10 @@
 
 **Link to problems:** [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
+### Day 64: May 19, 2020
+
+**Today's Progress:**
+- Studying C++ (Week 4 White Belt)
+- 19th day of 31-Day Leetcoding Challenge
+
+**Link to problems:** [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
