@@ -623,5 +623,14 @@
 **Today's Progress:**
 - Studying C++ (Week 4 White Belt)
 - 19th day of 31-Day Leetcoding Challenge
+- Solved problems on Bitwise operations
 
-**Link to problems:** [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
+**Link to problems:** [Online Stock Span](https://leetcode.com/problems/online-stock-span/), [Element appearing once](https://practice.geeksforgeeks.org/problems/element-appearing-once/0), [Add 1 to a given number](https://www.geeksforgeeks.org/add-1-to-a-given-number/)
+
+### Day 65: May 20, 2020
+
+**Today's Progress:**
+- 20th day of 31-Day Leetcoding challenge
+- Trained the BERT on UD
+
+**Link to problems:** [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/), [Find All Numbers Disapperad in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/), [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
