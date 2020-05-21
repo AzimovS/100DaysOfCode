@@ -632,5 +632,17 @@
 **Today's Progress:**
 - 20th day of 31-Day Leetcoding challenge
 - Trained the BERT on UD
+- Solved problems on Biwise operations
 
 **Link to problems:** [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/), [Find All Numbers Disapperad in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/), [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
+### Day 66: May 21, 2020
+
+**Today's Progress:**
+- 21th dayf of 31-Day Leetcoding challege
+- Solved problems on Leetcode
+- Exploring Datasets for PoS-tagging
+
+**Thoughts:** Reply to day 14. Now my rating is 12408/99851. Can I be in the top 10k by the end of this challenge? Let's see.
+
+**Link to problems:** [Is subsequence](https://leetcode.com/problems/is-subsequence/), [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/), [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/), [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
