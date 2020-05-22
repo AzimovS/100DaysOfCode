@@ -639,10 +639,18 @@
 ### Day 66: May 21, 2020
 
 **Today's Progress:**
-- 21th dayf of 31-Day Leetcoding challege
+- 21st day of 31-Day Leetcoding challege
 - Solved problems on Leetcode
 - Exploring Datasets for PoS-tagging
 
 **Thoughts:** Reply to day 14. Now my rating is 12408/99851. Can I be in the top 10k by the end of this challenge? Let's see.
 
 **Link to problems:** [Is subsequence](https://leetcode.com/problems/is-subsequence/), [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/), [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/), [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+
+### Day 67: May 22, 2020
+
+**Today's Progress:**
+- 22nd day of 31-Day Leetcoding challenge
+- Studying C++
+
+**Link to problem:** [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/), [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
