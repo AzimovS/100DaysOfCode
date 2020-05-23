@@ -654,3 +654,12 @@
 - Studying C++
 
 **Link to problem:** [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/), [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+
+
+### Day 68: May 23, 2020
+
+**Today's Progress:**
+- 23rd day of 31-Day Leetcoding challenge
+- Finished Week 4 C++ (White Belt)
+
+
