@@ -655,11 +655,18 @@
 
 **Link to problem:** [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/), [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
-
 ### Day 68: May 23, 2020
 
 **Today's Progress:**
 - 23rd day of 31-Day Leetcoding challenge
 - Finished Week 4 C++ (White Belt)
 
+### Day 69: May 24, 2020
 
+**Today's Progress:**
+- Participated on Weekly Contests 190 (Solved 4 problems)
+- 24th day of 31-Day Leetcoding Challenge
+- Started Pytorch course
+- Participated on CF Contest (Solved 4 problems)
+
+**Link to problem:** [Check if a Word ...](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/), [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/), [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/), [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
