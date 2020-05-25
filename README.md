@@ -669,4 +669,12 @@
 - Started Pytorch course
 - Participated on CF Contest (Solved 4 problems)
 
-**Link to problem:** [Check if a Word ...](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/), [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/), [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/), [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
+**Link to problem:** [Check if a Word ...](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/), [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/), [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/), [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/), [Минимальный квадрат](https://codeforces.com/contest/1360/problem/A), [Честный тренер](https://codeforces.com/contest/1360/problem/B), [Похожие пары](https://codeforces.com/contest/1360/problem/C), [Полигон](https://codeforces.com/contest/1360/problem/E)
+
+### Day 70: May 25, 2020
+
+**Today's Progress:**
+- Studying BERT
+- 25th day of 31-Day Leetcoding Challenge
+
+**Link to problem:** [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/), [Покупка лопат](https://codeforces.com/contest/1360/problem/D)
