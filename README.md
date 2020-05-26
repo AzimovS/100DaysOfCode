@@ -678,3 +678,14 @@
 - 25th day of 31-Day Leetcoding Challenge
 
 **Link to problem:** [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/), [Покупка лопат](https://codeforces.com/contest/1360/problem/D)
+
+### Day 71: May 26, 2020
+
+**Today's Progress:**
+- 26th day of 31-Day Leetcoding Challenge
+- Studying about Fine Tine
+- Participated on CF Contests (Solved 2 problems)
+
+**Linkto problem:** [Освещение парка](https://codeforces.com/contest/1358/problem/A), [Марья Ивановна нарушает самоизоляцию](https://codeforces.com/contest/1358/problem/B)
+
+
