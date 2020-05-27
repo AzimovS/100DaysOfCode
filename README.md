@@ -643,7 +643,7 @@
 - Solved problems on Leetcode
 - Exploring Datasets for PoS-tagging
 
-**Thoughts:** Reply to day 14. Now my rating is 12408/99851. Can I be in the top 10k by the end of this challenge? Let's see.
+**Thoughts:** Reply to day 14. Now my global ranking is 12408/99851. Can I be in the top 10k by the end of this challenge? Let's see.
 
 **Link to problems:** [Is subsequence](https://leetcode.com/problems/is-subsequence/), [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/), [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/), [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 
@@ -686,6 +686,14 @@
 - Studying about Fine Tine
 - Participated on CF Contests (Solved 2 problems)
 
-**Linkto problem:** [Освещение парка](https://codeforces.com/contest/1358/problem/A), [Марья Ивановна нарушает самоизоляцию](https://codeforces.com/contest/1358/problem/B)
+**Link to problem:** [Освещение парка](https://codeforces.com/contest/1358/problem/A), [Марья Ивановна нарушает самоизоляцию](https://codeforces.com/contest/1358/problem/B)
+
+### Day 72: May 27, 2020
+
+**Today's Progress:**
+- 27th day of 31-Day Leetcoding Challenge
 
 
+**Thoughts:** Reply to day 66. Now my global ranking is 9190/101003. Can I be in the top 5k by the end of this challenge? Let's see.
+
+**Link to problem:** [Possible bipartition](https://leetcode.com/problems/possible-bipartition/)
