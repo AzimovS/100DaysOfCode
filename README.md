@@ -684,7 +684,7 @@
 **Today's Progress:**
 - 26th day of 31-Day Leetcoding Challenge
 - Studying about Fine Tine
-- Participated on CF Contests (Solved 2 problems)
+- Participated on CF Contest (Solved 2 problems)
 
 **Link to problem:** [Освещение парка](https://codeforces.com/contest/1358/problem/A), [Марья Ивановна нарушает самоизоляцию](https://codeforces.com/contest/1358/problem/B)
 
@@ -697,3 +697,11 @@
 **Thoughts:** Reply to day 66. Now my global ranking is 9190/101003. Can I be in the top 5k by the end of this challenge? Let's see.
 
 **Link to problem:** [Possible bipartition](https://leetcode.com/problems/possible-bipartition/)
+
+### Day 73: May 28, 2020
+
+**Today's Progress:**
+- 28th day of 31-Day Leetcoding Challenge
+- Participated on CF Contest (Solved 2 problems)
+
+**Link to problem:** [Берляндский покер](https://codeforces.com/contest/1359/problem/A), [Новая Театральная площадь](https://codeforces.com/contest/1359/problem/B)
