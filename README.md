@@ -705,3 +705,9 @@
 - Participated on CF Contest (Solved 2 problems)
 
 **Link to problem:** [Берляндский покер](https://codeforces.com/contest/1359/problem/A), [Новая Театральная площадь](https://codeforces.com/contest/1359/problem/B)
+
+### Day 74: May 29, 2020
+
+**Today's Progress:**
+- 29th day of 31-Day Leetcoding Challenge
+- Started JP Morgan Virtual Internship
