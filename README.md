@@ -711,3 +711,14 @@
 **Today's Progress:**
 - 29th day of 31-Day Leetcoding Challenge
 - Started JP Morgan Virtual Internship
+
+
+### Day 75: May 30, 2020
+
+**Today's Progress:**
+- Completed MP Morgan Virtual Internship
+- 30th day of 31-Day Leetcoding Challenge
+- Finished Assignment 1 in Pytorch course
+- Participated on BiWeekly Contest 27 (Solved 3 problems)
+
+**Link to problem:** [Min stack](https://leetcode.com/problems/min-stack/), [Make Two Arrays Equal by Rversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/), [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/), [Course Schdeule IV](https://leetcode.com/problems/course-schedule-iv/)
