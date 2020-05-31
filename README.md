@@ -712,7 +712,6 @@
 - 29th day of 31-Day Leetcoding Challenge
 - Started JP Morgan Virtual Internship
 
-
 ### Day 75: May 30, 2020
 
 **Today's Progress:**
@@ -722,3 +721,12 @@
 - Participated on BiWeekly Contest 27 (Solved 3 problems)
 
 **Link to problem:** [Min stack](https://leetcode.com/problems/min-stack/), [Make Two Arrays Equal by Rversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/), [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/), [Course Schdeule IV](https://leetcode.com/problems/course-schedule-iv/)
+
+### Day 76: May 31, 2020
+
+**Today's Progress:**
+- Participated on Weekly Contest 191 (Solved 3 problems)
+- 31th day of Leetcoding Challenge
+- Participated on CF Contest (Solved 1 problem)
+
+**Link to problem:** [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/), [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/), [Maximum Area of a Pice of Cake After Horizontal and Vertical cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/), [Edit Distance](https://leetcode.com/problems/edit-distance/)
