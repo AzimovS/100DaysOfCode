@@ -730,3 +730,11 @@
 - Participated on CF Contest (Solved 1 problem)
 
 **Link to problem:** [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/), [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/), [Maximum Area of a Pice of Cake After Horizontal and Vertical cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/), [Edit Distance](https://leetcode.com/problems/edit-distance/)
+
+### Day 77: June 1, 2020
+
+**Today's Progress:**
+- 1st day of Leetcoding Challenge
+- Solved problems on Leetcode and CF
+
+**Link to problem:** [Ненависть к подпоследовательностям](https://codeforces.com/contest/1363/problem/B)б [Path Sum](https://leetcode.com/problems/path-sum/)
