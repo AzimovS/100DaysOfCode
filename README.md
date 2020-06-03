@@ -737,10 +737,19 @@
 - 1st day of Leetcoding Challenge
 - Solved problems on Leetcode and CF
 
-**Link to problem:** [Ненависть к подпоследовательностям](https://codeforces.com/contest/1363/problem/B)б [Path Sum](https://leetcode.com/problems/path-sum/)
+**Link to problem:** [Ненависть к подпоследовательностям](https://codeforces.com/contest/1363/problem/B), [Path Sum](https://leetcode.com/problems/path-sum/)
 
-### Day 78: Jume 2, 2020
+### Day 78: June 2, 2020
 
 **Today's Progress:**
 - 2nd day of Leetcoding Challenge
 - Read papers about Fine-Tuning
+
+### Day 79: June 3, 2020
+
+**Today's Progress:**
+- 3rd day of Leetcoding Challenge
+- Reading papers on Fine-Tuning
+- Finished [Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) with PyTorch 
+
+**Link to problem:** [Two city Schedulling](https://leetcode.com/problems/two-city-scheduling/)
