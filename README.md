@@ -750,6 +750,15 @@
 **Today's Progress:**
 - 3rd day of Leetcoding Challenge
 - Reading papers on Fine-Tuning
-- Finished [Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) with PyTorch 
+- Start [Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) with PyTorch 
 
 **Link to problem:** [Two city Schedulling](https://leetcode.com/problems/two-city-scheduling/)
+
+### Day 80: June 4, 2020
+
+**Today's Progress:**
+- 4th day of Leetcoding Challenge
+- Finished paper on Fine-Tuning
+- Finished [Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) with PyTorch 
+
+**Link to problem:** [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/), [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
