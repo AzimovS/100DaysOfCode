@@ -761,4 +761,12 @@
 - Finished paper on Fine-Tuning
 - Finished [Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) with PyTorch 
 
-**Link to problem:** [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/), [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
+**Link to problem:** [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/), [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/), [Джонни и древний компьютер](https://codeforces.com/contest/1362/problem/A),  [Джонни и еще одно падение рейтинга](https://codeforces.com/contest/1362/problem/C)
+
+### Day 81: June 5, 2020
+
+**Today's Progress:**
+- Exploring Fine-tuning on Pytorch
+- Solved problems on Leetcode and CF
+
+**Link to problem:** [Джонни и его хобби](https://codeforces.com/contest/1362/problem/B), [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
