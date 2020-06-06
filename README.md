@@ -768,5 +768,15 @@
 **Today's Progress:**
 - Exploring Fine-tuning on Pytorch
 - Solved problems on Leetcode and CF
+- 5th day of Leetcoding Challenge
 
 **Link to problem:** [Джонни и его хобби](https://codeforces.com/contest/1362/problem/B), [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+
+### Day 82: June 6, 2020
+
+**Today's Progress:**
+- 6th day of Leetcoding Challenge
+- Solved problems on Leetcode
+- Made Submission on Kaggle
+
+**Link to problem:** [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/), [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/), [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
