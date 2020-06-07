@@ -780,3 +780,12 @@
 - Made Submission on Kaggle
 
 **Link to problem:** [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/), [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/), [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+
+### Day 83: June 7, 2020
+
+**Today's Progress:**
+- 7th day of Leetcoding Challenge
+- Solved problems on Leetcode
+- Participated on Weekly contests 192
+
+**Link to problem:** [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/), [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/), [Design Browser History](https://leetcode.com/problems/design-browser-history/), [132 Pattern](https://leetcode.com/problems/132-pattern/), [Игра с таблицей](https://codeforces.com/contest/1365/problem/A), [Проблематичная сортировка](https://codeforces.com/contest/1365/problem/B)
