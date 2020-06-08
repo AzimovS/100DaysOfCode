@@ -789,3 +789,11 @@
 - Participated on Weekly contests 192
 
 **Link to problem:** [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/), [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/), [Design Browser History](https://leetcode.com/problems/design-browser-history/), [132 Pattern](https://leetcode.com/problems/132-pattern/), [Игра с таблицей](https://codeforces.com/contest/1365/problem/A), [Проблематичная сортировка](https://codeforces.com/contest/1365/problem/B)
+
+### Day 84: June 8, 2020
+
+**Today's Progress:**
+- 8th day of Leetcoding Challenge
+- Solved problems on Leetcode and CF
+
+**Link to problem:** [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/), [Соответствия поворотом](https://codeforces.com/contest/1365/problem/C)
