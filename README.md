@@ -797,3 +797,12 @@
 - Solved problems on Leetcode and CF
 
 **Link to problem:** [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/), [Соответствия поворотом](https://codeforces.com/contest/1365/problem/C)
+
+### Day 85: June 9, 2020
+
+**Today's Progress:**
+- 9th day of Leetcoding Challenge
+- Review the code for PoS-tagging on Pytorch
+- Solved problem on Leetcode
+
+**Link to problem:** [Решить лабиринт](https://codeforces.com/contest/1365/problem/D)
