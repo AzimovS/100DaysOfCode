@@ -806,3 +806,10 @@
 - Solved problem on Leetcode
 
 **Link to problem:** [Решить лабиринт](https://codeforces.com/contest/1365/problem/D)
+
+### Day 86: June 10, 2020
+
+**Today's Progress:**
+- 10th day of Leetcoding Challenge
+- Review the code for PoS-tagging on Pytorch
+- Lecture on Pytorch
