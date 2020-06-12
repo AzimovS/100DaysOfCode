@@ -813,3 +813,18 @@
 - 10th day of Leetcoding Challenge
 - Review the code for PoS-tagging on Pytorch
 - Lecture on Pytorch
+
+### Day 87: June 11, 2020
+
+**Today's Progress:**
+- Finished 1st chapter in NLP Book
+- Kaggle submission review
+
+### Day 88: June 12, 2020
+
+**Today's Progress:**
+- 11th day of Leetcoding Challenge
+- 12th day of Leetcoding Challenge
+- Finished 2nd chapter in NLP Book
+
+**Link to problem:** [Sort Colors](https://leetcode.com/problems/sort-colors/)
