@@ -828,3 +828,17 @@
 - Finished 2nd chapter in NLP Book
 
 **Link to problem:** [Sort Colors](https://leetcode.com/problems/sort-colors/)
+
+### Day 89: June 13, 2020
+
+**Today's Progress:**
+- Started the final project (While Belt C++)
+
+### Day 90: June 14, 2020
+
+**Today's Progress:**
+- Particapated on Weekly Contest 193 (Solved 2 problems)
+- 13th day of Leetcoding Challenge
+- 14th day of Leetcoding Challenge
+
+**Link to problem:** [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/), [Least Number of Unique Integers after K Removal](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/), [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/), [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
