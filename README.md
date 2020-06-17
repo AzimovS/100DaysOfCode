@@ -857,4 +857,12 @@
 - 16th dayf of Leetcoding Challenge
 - Participated on CF Contest (Solved 2 problems)
 
-**Link to problem:** [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
+**Link to problem:** [Validate IP Address](https://leetcode.com/problems/validate-ip-address/). [Короткие подстроки](https://codeforces.com/contest/1367/problem/A), [Четный массив](https://codeforces.com/contest/1367/problem/B), [Социальная дистанция](https://codeforces.com/contest/1367/problem/C)
+
+### Day 93: June 17, 2020
+
+**Today's Progress:**
+- 16th day of Leetcoding Challenge
+- Worked on Research (rewrote the code for PTB)
+
+**Link to problem:** [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
