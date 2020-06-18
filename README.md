@@ -866,3 +866,12 @@
 - Worked on Research (rewrote the code for PTB)
 
 **Link to problem:** [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+
+### Day 94: June 18, 2020
+
+**Today's Progress:**
+- 17th day of Leetcoding Challenge
+- Tested BERT 
+- Participated on CF Contest (Solved 1 problem)
+
+**Link to problem:** [H-Index II](https://leetcode.com/problems/h-index-ii/), [C+=](https://codeforces.com/contest/1368/problem/A)
