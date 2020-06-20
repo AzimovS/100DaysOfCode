@@ -854,7 +854,7 @@
 ### Day 92: June 16, 2020
 
 **Today's Progress:**
-- 16th dayf of Leetcoding Challenge
+- 16th day of Leetcoding Challenge
 - Participated on CF Contest (Solved 2 problems)
 
 **Link to problem:** [Validate IP Address](https://leetcode.com/problems/validate-ip-address/). [Короткие подстроки](https://codeforces.com/contest/1367/problem/A), [Четный массив](https://codeforces.com/contest/1367/problem/B), [Социальная дистанция](https://codeforces.com/contest/1367/problem/C)
@@ -862,7 +862,7 @@
 ### Day 93: June 17, 2020
 
 **Today's Progress:**
-- 16th day of Leetcoding Challenge
+- 17th day of Leetcoding Challenge
 - Worked on Research (rewrote the code for PTB)
 
 **Link to problem:** [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
@@ -870,8 +870,21 @@
 ### Day 94: June 18, 2020
 
 **Today's Progress:**
-- 17th day of Leetcoding Challenge
+- 18th day of Leetcoding Challenge
 - Tested BERT 
 - Participated on CF Contest (Solved 1 problem)
 
 **Link to problem:** [H-Index II](https://leetcode.com/problems/h-index-ii/), [C+=](https://codeforces.com/contest/1368/problem/A)
+
+### Day 95: June 19, 2020
+
+**Today's Progress:**
+- Finished White Belt C++ Course
+- Wrote code for BiLSTM
+
+### Day 96: June 20, 2020
+
+**Today's Progress:**
+- 19th day of Leetcoding Challenge
+
+
