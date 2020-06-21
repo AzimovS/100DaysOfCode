@@ -886,5 +886,13 @@
 
 **Today's Progress:**
 - 19th day of Leetcoding Challenge
+- Solved problems on Leetcode
 
+**Link to problem:** [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/), [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/), [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 
+### Day 97: June 21, 2020
+
+**Today's Progress:**
+- 20th day of Leetcoding Challenge
+
+**Link to problem:** [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
