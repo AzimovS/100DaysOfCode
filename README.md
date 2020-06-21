@@ -894,5 +894,6 @@
 
 **Today's Progress:**
 - 20th day of Leetcoding Challenge
+- Solved problems on Leetcode
 
-**Link to problem:** [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+**Link to problem:** [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/), [Majority Element](https://leetcode.com/problems/majority-element/), [Majority Element II](https://leetcode.com/problems/majority-element-ii/), [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/), [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
