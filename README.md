@@ -914,3 +914,12 @@
 - Participated on CF contest (Solved 1 problem)
 
 **Link to problem:** [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/), [ПокупатеЛи](https://codeforces.com/contest/1369/problem/A)
+
+### Day 100: June 24, 2020
+
+**Today's Progress:**
+- 23th day of Leetcoding Challenge
+- Studying Python
+- Studying Scala
+
+**Link to problem:** [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
